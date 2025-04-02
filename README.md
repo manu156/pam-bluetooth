@@ -9,7 +9,6 @@ Improvements are welcome.
 
 Usage
 -----
-Enter the MAC address of the device within the double quotes on line 16 of pam_bluetooth.c
 
 Build the module using the following commands.
 
